@@ -1,4 +1,6 @@
 import random
+def initiative():
+    
 
 def attack():
 
